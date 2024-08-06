@@ -104,7 +104,7 @@ requests==2.27.1
 requests-oauthlib==1.3.1
 rich==13.3.2
 rsa==4.9
-ruamel-yaml-conda==0.15.100
+ruamel-yaml-conda==0.15.80
 scikit-image==0.20.0
 scikit-learn==1.2.2
 scipy==1.9.1
